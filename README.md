@@ -1,5 +1,7 @@
 # Project Style Guide
 
+![Style Guide](https://res.cloudinary.com/dd40wbf0z/image/upload/v1692463147/6_ekblrn.png)
+
 Welcome to the Project Style Guide repository! This repository serves as a comprehensive reference for maintaining consistent coding and design standards across our projects. By adhering to these guidelines, we aim to enhance the readability, maintainability, and collaboration of our codebase.
 
 ## Introduction
